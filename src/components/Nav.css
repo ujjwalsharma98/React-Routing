@@ -1,0 +1,24 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background-color: darkolivegreen;
+    color: beige;
+}
+
+.nav-list{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.navLi{
+    color:white;
+}
+
+.navLi:hover{
+    color:yellow;
+}
